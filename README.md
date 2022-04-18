@@ -1,2 +1,2 @@
-# huffman-archiver
-nikitagolu8ev/huffman-archiver
+#Huffan Archiver
+C++ implementation of archiver/decoder with using of Huffman coding algorithm
